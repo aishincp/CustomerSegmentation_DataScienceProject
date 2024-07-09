@@ -128,17 +128,20 @@ _e) Cluster 4 (Moderate Earners and Spenders):_
 * Moderate income levels
 * Moderate spending scores
 
-##### Overall Insights:
 
-1. High-income clusters with high spending scores <mark>(Cluster 2)</mark> should be targeted for premium and exclusive offers.
+## Overall Insights:
 
-2. Younger, high-spending but low-income clusters <mark>(Cluster 4)</mark> can be attracted with affordable pricing and trendy products.
+### 1. High-income clusters with high spending scores <mark>(Cluster 2)</mark> should be targeted for premium and exclusive offers.
 
-3. Balanced spenders and income <mark>(Cluster 1)</mark> can be targeted with value-for-money offers.
+### 2. Younger, high-spending but low-income clusters <mark>(Cluster 4)</mark> can be attracted with affordable pricing and trendy products.
 
-4. Older, low-income, low-spending clusters <mark>(Cluster 0)</mark> might need more basic and essential product offerings.
+### 3. Balanced spenders and income <mark>(Cluster 1)</mark> can be targeted with value-for-money offers.
 
-5. Older, high-income but low-spending clusters <mark>(Cluster 3)</mark> might appreciate premium quality over quantity.
+### 4. Older, low-income, low-spending clusters <mark>(Cluster 0)</mark> might need more basic and essential product offerings.
+
+### 5. Older, high-income but low-spending clusters <mark>(Cluster 3)</mark> might appreciate premium quality over quantity.
+
+
 
 ### Multivariate Clustering:
 
@@ -241,17 +244,6 @@ Their average income is moderate.
 They have a moderate spending score.
 Males are more prevalent in this cluster, with the highest male proportion among all clusters.
 
-##### Overall Summary:
-
-* Young High Spenders (Cluster 0): Younger individuals with low income but high spending tendencies, slightly more males.
-
-* Older Conservative Spenders (Cluster 1): Older individuals with moderate income and low spending tendencies, slightly more males.
-
-* Young High Earners and Spenders (Cluster 2): Younger individuals with high income and high spending tendencies, balanced gender distribution.
-
-* Middle-Aged Conservative High Earners (Cluster 3): Middle-aged individuals with high income and very low spending tendencies, more females.
-
-* Moderate Earners and Spenders (Cluster 4): Individuals with moderate income and spending tendencies, with a significant male majority.
 
 
 
