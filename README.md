@@ -90,9 +90,9 @@ The insights from the analysis are used to move on to K-Means clustering to iden
 
 The five clusters represent the following customer segments:
 
-###### Cluster 0: Young High Spenders
+###### Cluster 0: VIP/High-Income Customers
   
-###### Cluster 1: Older Conservative Spenders
+###### Cluster 1: High Income Savers 
 
 ###### Cluster 2: Young High Earners and Spenders
 
@@ -102,46 +102,33 @@ The five clusters represent the following customer segments:
 
 The following provides detailed insights for each cluster, including age, annual income, spending scores, and gender distribution
 
-_a) Cluster 0 (Young High Spenders):_
+_a) Cluster 0 (Blue): "Target/VIP Customers"_
 
 * Younger customers (average age around 25-30)
-* Moderate income levels
-* High spending scores
+* High Income, High Spending Score.
+* Insight: Most valuable customers. They earn a lot and love to spend.
 
-_b) Cluster 1 (Older Conservative Spenders):_
+_b) Cluster 1 (Orange): "High Income Savers"_
 * Older customers (average age around 55-60)
-* Higher-income levels
-* Lower spending scores
-
-_c) Cluster 2 (Young High Earners and Spenders):_
-* Young to middle-aged customers (average age around 30-35)
-* High-income levels
-* High spending scores
-
-_d) Cluster 3 (Middle-Aged Conservative High Earners):_
-* Middle-aged customers (average age around 45-50)
-* High-income levels
-* Moderate spending scores
+* High Income, Low Spending Score
+* They have the money, but they aren't spending it enough. An opportunity for targeted marketing.
   
-_e) Cluster 4 (Moderate Earners and Spenders):_
-* Mixed age group (possibly spanning various age ranges)
-* Moderate income levels
-* Moderate spending scores
+_c) Cluster 2 (Green): "Carefree Spenders"_
+* Low Income, High Spending Score.
+* Insight: Usually, younger customers are spending a high percentage of their limited income.
+
+_d) Cluster 3 (Red): "Average Customers"_
+* Data: Medium Income, Medium Spending Score.
+* Insight: Largest and most stable segment of customers.
+  
+_e) Cluster 4 (Purple): "Budget-Conscious Customers"_
+* Low Income, Low Spending Score.
+* Insight: Customers who are very careful with their money are likely to look for discounts.
 
 
 ## Overall Insights:
 
-### 1. High-income clusters with high spending scores <mark>(Cluster 2)</mark> should be targeted for premium and exclusive offers.
-
-### 2. Younger, high-spending but low-income clusters <mark>(Cluster 4)</mark> can be attracted with affordable pricing and trendy products.
-
-### 3. Balanced spenders and income <mark>(Cluster 1)</mark> can be targeted with value-for-money offers.
-
-### 4. Older, low-income, low-spending clusters <mark>(Cluster 0)</mark> might need more basic and essential product offerings.
-
-### 5. Older, high-income but low-spending clusters <mark>(Cluster 3)</mark> might appreciate premium quality over quantity.
-
-
+In this project, I identified five distinct segments. For example, *Cluster 1* represents high earners who have a low spending score. From a Customer Experience perspective, this suggests a 'friction' or a "lack of engagement". I would recommend personalized loyalty programs to convert their high income into higher mall spending.
 
 ### Multivariate Clustering:
 
