@@ -90,15 +90,16 @@ The insights from the analysis are used to move on to K-Means clustering to iden
 
 The five clusters represent the following customer segments:
 
-###### Cluster 0: VIP/High-Income Customers
+##### Cluster 0: High Earners & High Spenders (VIP)
   
-###### Cluster 1: High Income Savers 
+##### Cluster 1: High Income Earners, Low-Soenders (Target) 
 
-###### Cluster 2: Young High Earners and Spenders
+##### Cluster 2: Low-Earners, High-Spenders (Carefree)
 
-###### Cluster 3: Middle-Aged Conservative High Earners
+##### Cluster 3: Average Earners & Spenders (Standard)
 
-###### Cluster 4: Moderate Earners and Spenders
+##### Cluster 4: Low-Earners, Low-Spenders (Budget)
+
 
 The following provides detailed insights for each cluster, including age, annual income, spending scores, and gender distribution
 
